@@ -1,12 +1,6 @@
 {
   "toys": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 33
-    },
-    {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
@@ -16,13 +10,13 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
@@ -47,6 +41,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Easy Bake Oven ",
+      "image": "https://i5.walmartimages.com/asr/1cbd42af-76e0-4878-93fd-aeea9eb94ee8_1.f8bc41c37ef4a04f5b1fbf23b6f5738c.jpeg",
+      "likes": 99,
+      "id": 9
     }
   ]
 }
